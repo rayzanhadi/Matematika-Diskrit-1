@@ -1,0 +1,18 @@
+print("Hello, Matematika Diskrit!")
+print("Hello, saya Akram Junaidi")
+
+a = 7
+b = 3
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a // b)
+print(a ** b)
+
+print("p AND q", p and q)
+
+nama = input("masukkan nama:")
+print("nama")
