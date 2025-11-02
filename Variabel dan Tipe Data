@@ -1,0 +1,14 @@
+#String
+print("Hello, Matematika Dsikrit!")
+
+#Integer
+a = 7
+b = 3
+
+#Float
+a = 7,5
+b = 3,5
+
+#Boolean
+a = True
+b = False
